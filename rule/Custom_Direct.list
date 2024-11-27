@@ -15,7 +15,16 @@ DOMAIN-SUFFIX,openwrt.ai
 # 订阅转换
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
-DOMAIN-SUFFIX,dogsvip.site
+#红杏机场
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,hongxingdl.love
+DOMAIN-SUFFIX,hongxingdl.it
+DOMAIN-SUFFIX,hongxingdl.one
+DOMAIN-SUFFIX,hongxingdl.club
+DOMAIN-SUFFIX,hongxingdl.cc
+DOMAIN-SUFFIX,hongxingdl.co
+#飓风机场
+DOMAIN-SUFFIX,ju-feng.azure-api.net
 # 猫眼浏览器
 DOMAIN-SUFFIX,catsxp.com
 # 其他域名
@@ -45,14 +54,22 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
-# Emby 小雅 相关
-DOMAIN-SUFFIX,ddsrem.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ggbond.org
-DOMAIN-SUFFIX,nn.ci
-DOMAIN-SUFFIX,xhofe.top
-DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
-DOMAIN-SUFFIX,wwwh.eu.org
+# Emby 相关
+#国内直连EMBY
+#Emby-misakaf公服
+DOMAIN,emby.misakaf.org
+DOMAIN,emby2.misakaf.org
+DOMAIN,emby3.misakaf.org
+DOMAIN,emby.aca.beat
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream4.misakaf.org
+IP-CIDR,104.26.10.170/32,no-resolve
+IP-CIDR,104.26.11.170/32,no-resolve
+IP-CIDR,109.169.67.7/32,no-resolve
+IP-CIDR,172.67.75.167/32,no-resolve
+IP-CIDR,208.91.107.189/32,no-resolve
 # 国内 CDN
 DOMAIN-SUFFIX,cjjd19.com
 # UniGetUI
