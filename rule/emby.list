@@ -1,10 +1,7 @@
-#第三方emby服务器
+#第三方emby代理服务器
 
-# > aca
-DOMAIN,emby.aca.best
-DOMAIN,porn.aca.best
 
-# > MisakaF可直连可代理
+# > MisakaF代理，空闲时可直连
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,cfprefer3.xyz
 IP-CIDR,104.26.10.170/32,no-resolve
