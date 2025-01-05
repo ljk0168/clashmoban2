@@ -11,6 +11,10 @@ IP-CIDR,67.209.53.99/32,no-resolve
 IP-CIDR,208.91.107.189/32,no-resolve
 IP-CIDR,74.118.142.188/32,no-resolve
 
+# > 起点站仅代理
+
+IP-CIDR,192.99.35.111/32,no-resolve
+
 # > alphatv海外服仅代理
 DOMAIN-SUFFIX,alphatvapp.top
 IP-CIDR,107.181.238.190/32,no-resolve
