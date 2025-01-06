@@ -27,6 +27,8 @@ DOMAIN,emby-qdz-hk.pppp.us.kg
 IP-CIDR,154.83.86.91/32,no-resolve
 #圣何塞
 DOMAIN,emby-qdz-us-sj.pppp.us.kg
+IP-CIDR,104.21.54.143/32,no-resolve
+IP-CIDR,172.67.139.2/32,no-resolve
 
 # > alphatv海外服仅代理
 DOMAIN-SUFFIX,alphatvapp.top
