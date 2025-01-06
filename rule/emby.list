@@ -18,8 +18,10 @@ IP-CIDR,192.99.35.111/32,no-resolve
 DOMAIN,tdck.fun
 #3日本
 DOMAIN,emby-qdz-jp.pppp.us.kg
+IP-CIDR,141.98.197.223/32,no-resolve
 #4新加坡
 DOMAIN,emby-qdz-sg.pppp.us.kg
+IP-CIDR,217.142.184.117/32,no-resolve
 #5香港
 DOMAIN,emby-qdz-hk.pppp.us.kg
 IP-CIDR,154.83.86.91/32,no-resolve
