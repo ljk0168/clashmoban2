@@ -11,13 +11,21 @@ IP-CIDR,67.209.53.99/32,no-resolve
 IP-CIDR,208.91.107.189/32,no-resolve
 IP-CIDR,74.118.142.188/32,no-resolve
 
-# > 起点站仅代理1加拿大2小黄云3软银4新加坡西5香港6圣何塞
-DOMAIN-SUFFIX,pppp.us.kg
-DOMAIN,tdck.fun
+# > 起点站仅代理(共6线路）
+#1加拿大
 IP-CIDR,192.99.35.111/32,no-resolve
+#2小黄云https://tdck.fun/web/index.html网页端
+DOMAIN,tdck.fun
+#3日本
+DOMAIN,emby-qdz-jp.pppp.us.kg
+#4新加坡
+DOMAIN,emby-qdz-sg.pppp.us.kg
+#5香港
+DOMAIN,emby-qdz-hk.pppp.us.kg
 IP-CIDR,154.83.86.91/32,no-resolve
+#圣何塞
+DOMAIN,emby-qdz-us-sj.pppp.us.kg
 
-emby-qdz-us-sj.pppp.us.kg
 # > alphatv海外服仅代理
 DOMAIN-SUFFIX,alphatvapp.top
 IP-CIDR,107.181.238.190/32,no-resolve
