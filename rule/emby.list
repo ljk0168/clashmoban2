@@ -18,9 +18,7 @@ IP-CIDR,154.12.16.104/32,no-resolve
 
 # > alphatv海外服仅代理
 DOMAIN-SUFFIX,alphatvapp.top
-IP-CIDR,107.181.238.190/32,no-resolve
-IP-CIDR,146.56.170.204/32,no-resolve
-IP-CIDR,146.56.47.21/32,no-resolve
+IP-CIDR,107.181.226.66/32,no-resolve
 
 # > Levilde Luminia仅代理
 DOMAIN,eggtartemby.itsmyduty.top
