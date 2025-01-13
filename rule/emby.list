@@ -1,30 +1,20 @@
 #第三方emby代理服务器
 
-
-# > MisakaF代理，空闲时可直连
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,cfprefer3.xyz
-IP-CIDR,104.26.10.170/32,no-resolve
-IP-CIDR,104.26.11.170/32,no-resolve
-IP-CIDR,172.67.75.167/32,no-resolve
-IP-CIDR,67.209.53.99/32,no-resolve
-IP-CIDR,208.91.107.189/32,no-resolve
-IP-CIDR,74.118.142.188/32,no-resolve
-
 # > 起点站仅代理，共5线路
 #1主线
 IP-CIDR,135.181.134.46/32,no-resolve
 #2新加坡
 DOMAIN,qdz-sg.vfing.de
-#IP-CIDR,217.142.184.117/32,no-resolve
+IP-CIDR,217.142.184.117/32,no-resolve
 #3香港1
 DOMAIN,qdz-hk-0.vfing.de
-#IP-CIDR,154.83.86.91/32,no-resolve
+IP-CIDR,185.241.40.123/32,no-resolve
 #4香港2
 DOMAIN,qdz-hk-1.vfing.de
-#IP-CIDR,104.21.54.143/32,no-resolve
+IP-CIDR,154.201.67.32/32,no-resolve
 #5不限流CDN
-DOMAIN,qdzcdn.vfing.de 
+DOMAIN,qdzcdn.vfing.de
+IP-CIDR,154.12.16.104/32,no-resolve
 
 # > alphatv海外服仅代理
 DOMAIN-SUFFIX,alphatvapp.top
