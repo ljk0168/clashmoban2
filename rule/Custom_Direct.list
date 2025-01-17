@@ -56,23 +56,11 @@ DOMAIN-SUFFIX,akamaihd.net
 IP-CIDR,5.5.5.5/32,no-resolve
 # Emby 相关
 #国内直连EMBY
-#Emby1-misakaf公服
-#DOMAIN,emby.misakaf.org
-#DOMAIN,emby2.misakaf.org
-#DOMAIN,emby3.misakaf.org
-#DOMAIN,emby.aca.beat
-#DOMAIN,stream1.misakaf.org
-#DOMAIN,stream2.misakaf.org
-#DOMAIN,stream3.misakaf.org
-#DOMAIN,stream4.misakaf.org
-#IP-CIDR,104.26.10.170/32,no-resolve
-#IP-CIDR,104.26.11.170/32,no-resolve
-#IP-CIDR,109.169.67.7/32,no-resolve
-#IP-CIDR,172.67.75.167/32,no-resolve
-#IP-CIDR,208.91.107.189/32,no-resolve
-#Emby2-Levilde Luminia Premium白名单
-#DOMAIN,emby.itsmyduty.top  
-#DOMAIN,sycuemby.itsmyduty.top  
+#Emby1-Levilde Luminia反代
+DOMAIN,lum.clun.top  
+IP-CIDR,172.67.27.46/32,no-resolve
+IP-CIDR,104.22.52.235/32,no-resolve
+IP-CIDR,104.22.53.235/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
