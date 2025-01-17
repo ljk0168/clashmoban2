@@ -58,9 +58,7 @@ IP-CIDR,5.5.5.5/32,no-resolve
 #国内直连EMBY
 #Emby1-Levilde Luminia反代
 DOMAIN,lum.clun.top  
-IP-CIDR,172.67.27.46/32,no-resolve
-IP-CIDR,104.22.52.235/32,no-resolve
-IP-CIDR,104.22.53.235/32,no-resolve
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
