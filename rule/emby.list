@@ -1,7 +1,9 @@
 #第三方emby代理服务器
 
-# > 起点站仅代理，共5线路
-#1主线
+# > 起点站仅代理，共6线路
+#1主线域名
+DOMAIN,favoritewife.com
+#1主线IP
 IP-CIDR,135.181.134.46/32,no-resolve
 #2新加坡
 DOMAIN,qdz-sg.vfing.de
@@ -12,13 +14,6 @@ IP-CIDR,185.241.40.123/32,no-resolve
 #4香港2
 DOMAIN,qdz-hk-1.vfing.de
 IP-CIDR,154.201.67.32/32,no-resolve
-#5不限流CDN
-DOMAIN,qdzcdn.vfing.de
-IP-CIDR,154.12.16.104/32,no-resolve
-
-# > alphatv海外服仅代理
-DOMAIN-SUFFIX,alphatvapp.top
-IP-CIDR,107.181.226.66/32,no-resolve
 
 # > Levilde Luminia仅代理
 DOMAIN,eggtartemby.itsmyduty.top
