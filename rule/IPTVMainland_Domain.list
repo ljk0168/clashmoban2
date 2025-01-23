@@ -746,9 +746,5 @@ DOMAIN,zv.3gv.ifeng.com
 DOMAIN,zycfcdn.gdwlcloud.com
 DOMAIN,zzlive.zzc-media.com
 DOMAIN,zzq12345.gearhostpreview.com
-#天光影云自建docker IPTV代理服务器
-# >名称double-itv
-DOMAIN,wasulive.internetprotocoltelevision.top
-# >名称YanG-1989
-DOMAIN,aktv.top
+
 
