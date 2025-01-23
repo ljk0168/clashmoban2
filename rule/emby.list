@@ -1,21 +1,16 @@
 #第三方emby代理服务器
 
-# > 起点站仅代理，共6线路
-#1主线域名
-DOMAIN,favoritewife.com
-#1主线IP
-IP-CIDR,135.181.134.46/32,no-resolve
-#2新加坡
-DOMAIN,qdz-sg.vfing.de
-IP-CIDR,217.142.184.117/32,no-resolve
-#3香港1
-DOMAIN,qdz-hk-0.vfing.de
-IP-CIDR,185.241.40.123/32,no-resolve
-#4香港2
-DOMAIN,qdz-hk-1.vfing.de
-IP-CIDR,154.201.67.32/32,no-resolve
-
-# > Levilde Luminia仅代理
+# > Levilde Luminia主要线路
 DOMAIN,eggtartemby.itsmyduty.top
 IP-CIDR,188.253.112.89/32,no-resolve
-
+# >美国洛杉矶100Mbps
+DOMAIN,hkslimemby.itsmyduty.top
+IP-CIDR,43.198.98.44/32,no-resolve
+# >香港AWS
+DOMAIN,slimemby.itsmyduty.top
+IP-CIDR,154.9.205.61/32,no-resolve
+# >友商赞助
+DOMAIN,levilde.clun.top
+IP-CIDR,172.67.27.46/32,no-resolve
+IP-CIDR,104.22.52.235/32,no-resolve
+IP-CIDR,104.22.53.235/32,no-resolve
