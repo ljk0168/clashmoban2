@@ -2,3 +2,4 @@
 DOMAIN,ntdofifreepc.akamaized.net
 DOMAIN,cdi.ofiii.com
 IP-CIDR,23.33.126.165/32,no-resolve
+IP-CIDR,23.202.35.59/32,no-resolve
