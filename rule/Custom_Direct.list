@@ -62,8 +62,7 @@ IP-CIDR,43.198.98.44/32,no-resolve
 # >2美国洛杉矶100Mbps线路
 DOMAIN,slimemby.itsmyduty.top
 IP-CIDR,154.9.205.61/32,no-resolve
-# >3友商赞助线路
-DOMAIN-SUFFIX,clun.top  
+ 
 # >APTV_double-itv国内节目0.17docker自建IPTV
 DOMAIN-SUFFIX,internetprotocoltelevision.top
 # 国内DNS
