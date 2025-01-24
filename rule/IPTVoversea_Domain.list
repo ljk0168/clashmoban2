@@ -1,5 +1,8 @@
 #国外IPTV
 DOMAIN,ntdofifreepc.akamaized.net
 DOMAIN,cdi.ofiii.com
+IP-CIDR,104.22.58.138/32,no-resolve
+IP-CIDR,104.22.59.138/32,no-resolve
+IP-CIDR,172.67.31.155/32,no-resolve
 IP-CIDR,23.33.126.165/32,no-resolve
 IP-CIDR,23.202.35.59/32,no-resolve
