@@ -3,12 +3,7 @@
 # > Levilde Luminia主要线路
 DOMAIN,eggtartemby.itsmyduty.top
 IP-CIDR,188.253.112.89/32,no-resolve
-# >香港AWS
-DOMAIN,hkslimemby.itsmyduty.top
-IP-CIDR,43.198.98.44/32,no-resolve
-# >美国洛杉矶100Mbps
-DOMAIN,slimemby.itsmyduty.top
-IP-CIDR,154.9.205.61/32,no-resolve
+
 # >友商赞助
 DOMAIN,levilde.clun.top
 IP-CIDR,172.67.27.46/32,no-resolve
