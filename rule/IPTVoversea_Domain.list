@@ -2,11 +2,13 @@
 DOMAIN,ntdofifreepc.akamaized.net
 #台湾ITV
 DOMAIN-SUFFIX,ofiii.com
+DOMAIN,cdi.ofiii.com
 IP-CIDR,104.22.58.138/32,no-resolve
 IP-CIDR,104.22.59.138/32,no-resolve
 IP-CIDR,172.67.31.155/32,no-resolve
 IP-CIDR,23.33.126.136/32,no-resolve
 IP-CIDR,23.33.126.154/32,no-resolve
 IP-CIDR,23.33.126.165/32,no-resolve
+IP-CIDR,23.33.126.186/32,no-resolve
 IP-CIDR,23.202.35.59/32,no-resolve
 
