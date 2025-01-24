@@ -15,7 +15,7 @@ IP-CIDR,172.67.27.46/32,no-resolve
 IP-CIDR,104.22.52.235/32,no-resolve
 IP-CIDR,104.22.53.235/32,no-resolve
 
-#天光影云自建docker IPTV代理服务器
+#天光影云
 # >名称香港组节目
 DOMAIN,aktv.top
 
