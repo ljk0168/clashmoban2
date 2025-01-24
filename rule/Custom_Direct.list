@@ -54,13 +54,18 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
-# Emby 相关
 #国内直连EMBY
-#Emby1-Levilde Luminia反代
+#Emby-Levilde Luminia反代
+# >1香港AWS线路
+DOMAIN,hkslimemby.itsmyduty.top
+IP-CIDR,43.198.98.44/32,no-resolve
+# >2美国洛杉矶100Mbps线路
+DOMAIN,slimemby.itsmyduty.top
+IP-CIDR,154.9.205.61/32,no-resolve
+# >3友商赞助线路
 DOMAIN-SUFFIX,clun.top  
 # >APTV_double-itv国内节目0.17docker自建IPTV
 DOMAIN-SUFFIX,internetprotocoltelevision.top
-
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
