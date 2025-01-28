@@ -68,6 +68,8 @@ DOMAIN-SUFFIX,internetprotocoltelevision.top
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,chinamobile.com
+# >APTV_allinone直连0.17docker自建IPTV
+DOMAIN,sptv.tg.bestlive.cmdns.xyz
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
