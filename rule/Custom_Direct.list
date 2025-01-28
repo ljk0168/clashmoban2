@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,chinamobile.com
 # >APTV_allinone直连0.17docker自建IPTV
 DOMAIN,sptv.tg.bestlive.cmdns.xyz
 DOMAIN,sptv.tg.wasulive.cmdns.xyz
+DOMAIN,sptv.tg.hnbblive.cmdns.xyz
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
