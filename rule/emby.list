@@ -9,5 +9,8 @@ DOMAIN,levilde.clun.top
 IP-CIDR,172.67.27.46/32,no-resolve
 IP-CIDR,104.22.52.235/32,no-resolve
 IP-CIDR,104.22.53.235/32,no-resolve
-
+# > 天光云影第三方myTVSUPER直播源（香港节目最好用香港节点）
+DOMAIN,aktv.top
+IP-CIDR,172.67.190.218/32,no-resolve
+IP-CIDR,104.21.20.22/32,no-resolve
 
