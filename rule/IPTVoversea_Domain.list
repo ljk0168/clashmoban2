@@ -15,7 +15,7 @@ IP-CIDR,23.202.35.59/32,no-resolve
 IP-CIDR,23.2.16.16/32,no-resolve
 IP-CIDR,23.2.16.8/32,no-resolve
 
-# > 第三方myTVSUPER直播源（不一定用香港节点）
+# > 第三方myTVSUPER直播源（不一定用香港节点，看香港节目最好用香港节点）
 DOMAIN,aktv.top
 IP-CIDR,172.67.190.218/32,no-resolve
 IP-CIDR,104.21.20.22/32,no-resolve
