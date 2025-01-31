@@ -1,1 +1,3 @@
-
+# > 第三方myTVSUPER直播源（带token)（最好用香港节点）
+DOMAIN,video.mytvsuper.xyz
+IP-CIDR,45.152.67.136/32,no-resolve
