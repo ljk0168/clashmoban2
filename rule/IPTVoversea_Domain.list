@@ -1,6 +1,12 @@
 #国外IPTV
 DOMAIN,ntdofifreepc.akamaized.net
-#台湾ITV
+# >double-itv国内0.17docker自建IPTV
+DOMAIN-SUFFIX,internetprotocoltelevision.top
+# >itv直连0.17docker自建IPTV
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,chinamobile.com
+#double-ofiii台湾
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN,cdi.ofiii.com
 IP-CIDR,104.22.58.138/32,no-resolve
