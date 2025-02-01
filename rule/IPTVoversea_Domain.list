@@ -14,5 +14,6 @@ IP-CIDR,23.33.126.186/32,no-resolve
 IP-CIDR,23.202.35.59/32,no-resolve
 IP-CIDR,23.2.16.16/32,no-resolve
 IP-CIDR,23.2.16.8/32,no-resolve
-
-
+#aktv海外
+DOMAIN,aktv.top
+DOMAIN,video.mytvsuper.xyz
