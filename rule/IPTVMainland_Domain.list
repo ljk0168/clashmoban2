@@ -756,5 +756,10 @@ DOMAIN,sptv.tg.ystenlive.cmdns.xyz
 DOMAIN,fash2043.cloudycdn.services
 DOMAIN,rptv.v1.mk
 
-
+# >double-itv国内0.17docker自建IPTV
+DOMAIN-SUFFIX,internetprotocoltelevision.top
+# >itv直连0.17docker自建IPTV
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,chinamobile.com
 
