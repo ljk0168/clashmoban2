@@ -9,3 +9,16 @@ DOMAIN,levilde.clun.top
 IP-CIDR,172.67.27.46/32,no-resolve
 IP-CIDR,104.22.52.235/32,no-resolve
 IP-CIDR,104.22.53.235/32,no-resolve
+# >IPTV研究所
+#其他Hlove分流  香港节点
+DOMAIN-SUFFIX,hlove.tv
+DOMAIN-SUFFIX,iptv200.com
+DOMAIN-SUFFIX,ymedium.top
+DOMAIN-SUFFIX,mytvsuper.com.mp
+DOMAIN-SUFFIX,mytvsuper.us.kg
+DOMAIN-SUFFIX,gditv.us.kg
+DOMAIN-SUFFIX,creativehub.sbs
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,vip-tptv.xyz
+DOMAIN-SUFFIX,plusai.me
+DOMAIN-SUFFIX,akile.io
