@@ -17,3 +17,5 @@ IP-CIDR,23.2.16.8/32,no-resolve
 #aktv海外
 DOMAIN,aktv.top
 DOMAIN,video.mytvsuper.xyz
+#IPTV研究所分流
+DOMAIN,o11tvb.vip-tptv.xyz
