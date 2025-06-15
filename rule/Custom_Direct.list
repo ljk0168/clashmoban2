@@ -12,6 +12,35 @@ DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
+# GitHub 反代 CDN
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh.con.sh
+DOMAIN-SUFFIX,gh.ddlc.top
+DOMAIN-SUFFIX,gh.llkk.cc
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,ghproxy.cfd
+DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,git.886.be
+DOMAIN-SUFFIX,github.abskoop.workers.dev
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,github.moeyy.xyz
+DOMAIN-SUFFIX,github.site
+DOMAIN-SUFFIX,github.store
+DOMAIN-SUFFIX,hub.gitmirror.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,kgithub.com
+# Docker 反代 CDN
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,docker.kejilion.pro
+DOMAIN-SUFFIX,docker.unsee.tech
+DOMAIN-SUFFIX,dockerpull.pw
+DOMAIN-SUFFIX,dockerpull.org
+DOMAIN-SUFFIX,dhub.kubesre.xyz
+DOMAIN-SUFFIX,hub.crdz.gq
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,hub.xdark.top
+DOMAIN-SUFFIX,registry.dockermirror.com
 # 订阅转换
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
@@ -50,8 +79,34 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
 # PT 下载相关
 DOMAIN-KEYWORD,tracker
+# DOMAIN-SUFFIX,ip-api.com 会影响某些 DNS 泄露检测网站的结果，暂时屏蔽
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,kit327.com
+DOMAIN-SUFFIX,members.3322.org
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+# Kaspersky
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kaspersky-labs.com
+
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
+# FinalShell
+IP-CIDR,5.5.5.5/32,no-resolve
+# UniGetUI
+DOMAIN-SUFFIX,powershellgallery.com
+# NTP Pool Project
+DOMAIN-SUFFIX,pool.ntp.org
+# Dell
+DOMAIN-SUFFIX,dell.com
+# MicroSoft Rewards
+DOMAIN-SUFFIX,rewards.bing.com
+
+# FLiNG Trainer
+DOMAIN-SUFFIX,flingtrainer.com
+
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
 #国内直连EMBY
@@ -62,7 +117,13 @@ IP-CIDR,43.198.98.44/32,no-resolve
 # >2美国洛杉矶100Mbps线路
 DOMAIN,slimemby.itsmyduty.top
 IP-CIDR,154.9.205.61/32,no-resolve
-
+# IPTV 相关
+DOMAIN-SUFFIX,112114.xyz
+DOMAIN-SUFFIX,epg.v1.mk
+DOMAIN-SUFFIX,epg.aptv.app
+DOMAIN-SUFFIX,gdcucc.v1.mk
+DOMAIN-SUFFIX,r.inews.qq.com
+DOMAIN-SUFFIX,myip.ipip.net
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
