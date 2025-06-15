@@ -764,4 +764,5 @@ DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,chinamobile.com
 
-
+# >益力多iptv国内节目
+DOMAIN,cdn2.163189.xyz
